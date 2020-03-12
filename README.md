@@ -1,2 +1,1 @@
-# PixelLabFiles
-For pixel lab files only
+#Pixel Lab - Raw files
